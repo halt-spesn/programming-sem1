@@ -1,0 +1,12 @@
+# executables
+*.exe
+*.out
+*.app
+# objects
+*.o
+*.obj
+*.i
+*.s
+# IDE folders
+.vscode/
+.idea/
